@@ -1,3 +1,7 @@
+
+![Complaint Data analysis](https://github.com/user-attachments/assets/f392a53a-6800-4a0c-b2d6-fbfa79631ea8)
+
+
 Created a dynamic Consumer Complaint Data Analysis Dashboard that empowered the client to identify and prioritize key consumer issues across products and regions. The dashboard enabled the client to optimize communication channels, enhance customer experience, and strategically allocate resources based on data-driven insights. The use of timely response metrics and resolution categories further supported the client in maintaining high service standards and improving customer satisfaction outcomes.
 
 Client requirements based on the data provided in the dashboard: 
